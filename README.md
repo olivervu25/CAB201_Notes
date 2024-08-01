@@ -4,7 +4,7 @@ Welcome to the repository for **CAB201 - Programming Principles** at [Queensland
 
 ## About This Repository
 
-This repository contains weekly examples and notes that are covered in the my tutorials. It is designed to assist students in understanding key concepts covered in the week, practicing coding skills, and preparing for exams.
+This repository contains weekly examples and notes that are covered in the my tutorials. It is designed to assist students in understanding key concepts covered in the week, practicing coding skills, and preparing for exams. Please note that this is not an official document, but rather personal advice and insights from my own experience running the unit.
 
 ### Contents
 
